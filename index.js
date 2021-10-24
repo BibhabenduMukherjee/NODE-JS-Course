@@ -1,3 +1,3 @@
-const lovish = require("./second");
+const maven = require("./second");
 
-console.log("Hello world", lovish)
+console.log("Hello world", maven)
