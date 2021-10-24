@@ -1,9 +1,9 @@
 // (function(exports, require, module, __filename, __dirname){
 
 harry = {
-    name: "Harry",
+    name: "Maven",
     favNum: 36,
-    developer: true
+    developer: false
 }
 // console.log(exports, require, module, __filename, __dirname)
 module.exports = harry;
